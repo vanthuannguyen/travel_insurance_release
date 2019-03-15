@@ -4,7 +4,7 @@ This short test on Travel Insurance. This test run on:
 1. Python 2.7.12
 2. Selenium 3.141.0
 3. Chrome 71.0.3578.98 64 bit
-4. Latest chrome driver https://chromedriver.storage.googleapis.com/index.html?path=2.8/
+4. Latest chrome driver https://chromedriver.storage.googleapis.com/index.html
 5. Chrome driver located at C:\Python27\
 
 How to run: Script location: go_bear/scripts Method 1: Use CMD
